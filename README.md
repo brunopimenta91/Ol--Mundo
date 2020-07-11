@@ -1,2 +1,4 @@
-# Olá Mundo
- Primeiro repositório versionado curso de github do curso em video
+# Olá, Mundo
+ Primeiro repositório versionado curso de Git/Github do curso em video.
+
+ Primeiro repositorio criado em uma live do professor Gustavo Guanabara, do curso em vídeo.
